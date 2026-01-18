@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Light of Logos</title>
+    <link>https://lightoflogos.github.io/musik/</link>
+    <language>de-de</language>
+    <itunes:author>Light of Logos</itunes:author>
+    <itunes:summary>Meine mit Suno AI erstellten Songs</itunes:summary>
+    <itunes:image href="https://lightoflogos.github.io/musik/psalms2_cover.jpg"/>
+    
+    <item>
+      <title>Psalm 21 - Crown of Joy</title>
+      <enclosure url="https://lightoflogos.github.io/musik/psalms2_01.mp3" length="0" type="audio/mpeg" />
+      <guid>https://lightoflogos.github.io/musik/psalms2_01.mp3</guid>
+      <pubDate>Sat, 17 Jan 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>03:00</itunes:duration>
+    </item>
+
+    <item>
+      <title>Psalm 30 - Dancing Through The Night</title>
+      <enclosure url="https://lightoflogos.github.io/musik/psalms2_02.mp3" length="0" type="audio/mpeg" />
+      <guid>https://lightoflogos.github.io/musik/psalms2_02.mp3</guid>
+      <pubDate>Sat, 17 Jan 2026 12:05:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
